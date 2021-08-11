@@ -12,3 +12,9 @@
 	float: none;
 	text-align: left;
 }
+#player_question{
+	color: mediumspringgreen;
+}
+#player_answer{
+	color: mediumspringgreen;
+}
